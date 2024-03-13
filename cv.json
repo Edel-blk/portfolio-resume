@@ -38,7 +38,7 @@
     },
     {
       "name": "Xira",
-      "position": "Soporte Jr.",
+      "position": "Soporte",
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-08-01",
       "endDate": "2022-02-01",
@@ -101,14 +101,44 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "project",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "project description",
       "highlights": [
         "Elige tu propia aventura",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "www.google.com"
+    },
+    {
+      "name": "project",
+      "isActive": true,
+      "description": "project description",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "www.google.com"
+    },
+    {
+      "name": "project",
+      "isActive": true,
+      "description": "project description",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "www.google.com"
+    },
+    {
+      "name": "project",
+      "isActive": true,
+      "description": "project description",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "www.google.com"
     }
   ]
 }
