@@ -40,8 +40,8 @@
       "name": "Xira",
       "position": "Soporte",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-08-01",
-      "endDate": "2022-02-01",
+      "startDate": "2022-08-01",
+      "endDate": "2023-02-01",
       "summary": "Me encargaba de la monitorización diaria y mantenimiento de soluciones mediante Puppeteer. Resolvía tickets de problemas y bugs, abordando áreas como web scraping y administración de servidores (Linux, Windows). Participaba activamente en reuniones semanales con clientes, implementaba sistemas de monitoreo y lideraba la migración de soluciones Legacy a ECMAScript 6. Además, contribuí en la capacitación e implementación de inteligencia artificial en nuevos productos."
     }
   ],
