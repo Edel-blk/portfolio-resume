@@ -109,36 +109,6 @@
         "En desarrollo"
       ],
       "url": "www.google.com"
-    },
-    {
-      "name": "project",
-      "isActive": true,
-      "description": "project description",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "www.google.com"
-    },
-    {
-      "name": "project",
-      "isActive": true,
-      "description": "project description",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "www.google.com"
-    },
-    {
-      "name": "project",
-      "isActive": true,
-      "description": "project description",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "www.google.com"
     }
   ]
 }
